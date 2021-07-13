@@ -1,0 +1,58 @@
+_repo: Report-on-the-Migration-of-Birds-in-the-Spring-and-Autumn-of-1884-Sixth-Report-Vol-II-No-1_65700
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Harvie-Brown, J. A. (John Alexander)
+    aliases:
+    - Harvie-Brown, John A.
+    - Brown, J. A. Harvie
+    - Harvie-Brown, John Alexander
+    - Brown, John A. Harvie
+    birthdate: 1844
+    deathdate: 1916
+    gutenberg_agent_id: '53324'
+    url: http://www.gutenberg.org/2009/agents/53324
+    wikipedia: https://en.wikipedia.org/wiki/John_Alexander_Harvie-Brown
+  - agent_name: Cordeaux, John
+    alias: Cordeaux, J.
+    birthdate: 1831
+    deathdate: 1899
+    gutenberg_agent_id: '53325'
+    url: http://www.gutenberg.org/2009/agents/53325
+    wikipedia: https://en.wikipedia.org/wiki/John_Cordeaux_(ornithologist)
+  - agent_name: Barrington, R. M.
+    gutenberg_agent_id: '53366'
+    url: http://www.gutenberg.org/2009/agents/53366
+  - agent_name: More, Alexander Goodman
+    aliases:
+    - More, A. G.
+    - Goodman More, Alexander
+    birthdate: 1830
+    deathdate: 1895
+    gutenberg_agent_id: '53367'
+    url: http://www.gutenberg.org/2009/agents/53367
+    wikipedia: https://en.wikipedia.org/wiki/Alexander_Goodman_More
+  - agent_name: Clarke, William Eagle
+    alias: Clarke, W. Eagle
+    birthdate: 1853
+    deathdate: 1938
+    gutenberg_agent_id: '53465'
+    url: http://www.gutenberg.org/2009/agents/53465
+    wikipedia: https://en.wikipedia.org/wiki/William_Eagle_Clarke
+description: ''
+gutenberg_issued: '2021-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65700'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Birds -- Migration -- Great Britain -- Periodicals'
+- !lcsh 'Birds -- Migration -- Ireland -- Periodicals'
+- GITenberg
+title: "Report on the Migration of Birds in the Spring and Autumn of 1884. Sixth Report\r\
+  \n(Vol. II No. 1)"
+url: http://www.gutenberg.org/ebooks/65700
