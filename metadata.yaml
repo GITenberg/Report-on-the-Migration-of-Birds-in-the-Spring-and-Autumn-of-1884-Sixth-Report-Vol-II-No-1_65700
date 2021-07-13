@@ -1,5 +1,8 @@
 _repo: Report-on-the-Migration-of-Birds-in-the-Spring-and-Autumn-of-1884-Sixth-Report-Vol-II-No-1_65700
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65700-h/images/cover.png
 creator:
   authors:
   - agent_name: Harvie-Brown, J. A. (John Alexander)
@@ -40,6 +43,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53465
     wikipedia: https://en.wikipedia.org/wiki/William_Eagle_Clarke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65700#Report-on-the-Migration-of-Birds-in-the-Spring-and-Autumn-of-1884-Sixth-Report-Vol-II-No-1
 gutenberg_issued: '2021-06-25'
 gutenberg_type: Text
 identifiers:
